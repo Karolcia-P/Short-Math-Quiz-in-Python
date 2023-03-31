@@ -1,5 +1,5 @@
 ENG:
-# Math Quiz Project
+# Short Math Quiz Project
 
 The Math Quiz Project is a simple console program written in Python that allows the user to solve a series of math questions and test their knowledge. The program reads a set of questions from a JSON file and presents one question at a time to the user, offering four possible answers to choose from. After selecting an answer, the program displays whether the answer was correct or not, and at the end, it presents a summary of the user's score and the time taken to complete the quiz and each question separately.
 
@@ -13,7 +13,7 @@ After launching the program, the user should follow the displayed instructions. 
 
 
 PL:
-# Projekt Quiz Matematyczny
+# Projekt Krótkiego Quizu Matematycznego
 
 Projekt Quiz Matematyczny to prosty program konsolowy napisany w języku Python, który pozwala użytkownikowi rozwiązać serię pytań matematycznych i sprawdzić swoją wiedzę. Program wczytuje zestaw pytań z pliku JSON i prezentuje użytkownikowi jedno pytanie naraz, proponując cztery odpowiedzi do wyboru. Po wyborze odpowiedzi program wyświetla informację, czy odpowiedź była poprawna, a na końcu prezentuje użytkownikowi podsumowanie wyniku oraz wynik zmierzonego czasu podczas wykonawynia całego quizu jak i każdego pytania z osobna.
 
